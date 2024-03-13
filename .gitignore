@@ -7,7 +7,6 @@ yarn.lock
 /build
 /dist
 /.cache
-/public
 
 # Environment files
 .env
